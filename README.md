@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full stack engineer working at Handshake, a company designed to democratize post college job opportunities for millions of students. I am a loving husband and father to a wonderful baby girl. When I find free time, I use it to :running_man:, :man_cook:, and automate as many things as possible in the :house:
+I am a full stack engineer working at Stripe. I am a loving husband and father to a wonderful baby girl. When I find free time, I use it to :running_man:, :man_cook:, and automate as many things as possible in the :house:
 
 
 <!--
