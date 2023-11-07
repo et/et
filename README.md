@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full stack engineer working at [Highlight](https://highlight.io). I am a loving husband and father to two wonderful girls. When I find free time, I use it to :running_man:, :man_cook:, and automate as many things as possible in the :house:
+I am a software engineer working at [Slack](https://slack.com/). I am a loving husband and father to two wonderful girls. When I find free time, I use it to :running_man:, :man_cook:, and automate as many things as possible in the :house:
 
 
 <!--
